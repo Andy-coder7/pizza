@@ -8,7 +8,7 @@ huile
 levure
 =======
 sauce voatabia de sauce tomate de sauce tomato
->>>>>>> 9dc0c9411d12b67971b67ce2f4c7cc50ed86d15f
+=======
 fromage
 saucisses fumées
 crevettes
